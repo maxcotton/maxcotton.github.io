@@ -5,7 +5,7 @@ description: >- # site description
   for documentation things that he learned, meet him <a href="https://maxcotton.github.io" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Asia/Seoul # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/som.png 
 repo: https://github.com/maxcotton/maxcotton.github.io.git # site repo [optional]
 mode: light # default theme "dark" | "light"
 
