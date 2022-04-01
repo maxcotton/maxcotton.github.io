@@ -5,7 +5,7 @@ description: >- # site description
   for documentation things that he learned, meet him <a href="https://maxcotton.github.io" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Asia/Seoul # set your timezone
-image: assets/img/som.png 
+image: assets/img/som.png # image
 repo: https://github.com/maxcotton/maxcotton.github.io.git # site repo [optional]
 mode: light # default theme "dark" | "light"
 
